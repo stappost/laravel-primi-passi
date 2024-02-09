@@ -36,7 +36,7 @@
     <div class="conainer">
         <div class="row">
             <div class="col-12">
-                <h1 class="text-center">{{ $welcome }}</h1>
+                <h1 class="text-center">Shop</h1>
             </div>
         </div>
     </div>
